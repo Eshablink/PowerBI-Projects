@@ -4,7 +4,7 @@
 ![Top Language](https://img.shields.io/github/languages/top/Eshablink/PowerBI-Projects?style=flat-square)  
 ![License](https://img.shields.io/github/license/Eshablink/PowerBI-Projects?style=flat-square)  
 
-Welcome! I’m **Kitty**, a 4th-year B.Tech student passionate about **Data Analysis and Visualization** using Power BI. 🚀  
+Welcome! I’m **Esha**, a 4th-year B.Tech student passionate about **Data Analysis and Visualization** using Power BI. 🚀  
 
 ---
 
