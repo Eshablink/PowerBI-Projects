@@ -1,6 +1,10 @@
 # Truecaller Analysis
 
-This project explores Truecaller data to uncover insights about calling patterns, spam detection trends, and user behavior. The analysis is performed using **Power BI**, with an optional SQL component for enhanced data management.
+Call Pattern & Spam Trend Analysis | Power BI, SQL, Data Visualization
+Analyzed call records dataset to identify spam patterns, user behavior, and frequency trends
+Created dashboard visualizations to support data-driven insights and reporting
+Integrated SQL-based filtering for structured data exploration
+Hosted complete project with notebook and dashboard files on GitHub
 
 ## Features
 
@@ -27,3 +31,4 @@ This project explores Truecaller data to uncover insights about calling patterns
 ---
 
 Feel free to explore the project and see how Truecaller data can be analyzed effectively! 🚀
+
