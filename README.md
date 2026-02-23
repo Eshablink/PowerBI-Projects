@@ -10,16 +10,21 @@ Welcome! I’m **Esha**, a 4th-year B.Tech student passionate about **Data Analy
 
 ## 🌟 Projects
 
-### 1. [Spotify Analysis](Spotify-Analysis)
+### 1. [Spotify Analysis](power%20bi/spotify%20analysis)
+
 🎵 Analyze Spotify data to uncover trends in songs, artists, and user preferences.  
 📊 Power BI dashboards visualize insights clearly.  
-![Screenshot](Spotify-Analysis/screenshot.png)  
 
-### 2. [Truecaller Analysis](Truecaller-Analysis)
+![Screenshot](power bi/spotify analysis/Screenshot 2025-09-19 141510.png)
+
+---
+
+### 2. [Truecaller Analysis](power%20bi/Trucaller%20analysis)
+
 📞 Explore Truecaller data to identify call patterns, spam trends, and user behavior.  
-💻 Dashboards built in Power BI, with optional **SQL integration** for enhanced analysis.  
-![Screenshot](Truecaller-Analysis/screenshot.png)  
+💻 Dashboards built in Power BI, with optional SQL integration for enhanced analysis.  
 
+![Screenshot](power bi/Trucaller analysis/Screenshot 2025-09-19 142607.png)
 ---
 
 ## 🛠 Skills
